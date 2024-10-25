@@ -1,0 +1,28 @@
+/* Footer styling */
+.footer {
+    background-color: #8D6E63;  /* Medium brown background */
+    color: white;  /* White text color */
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 30px;  /* Space above footer */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  /* Subtle shadow effect */
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .footer a {
+    color: #FFAB91;  /* Peachy color for links */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
